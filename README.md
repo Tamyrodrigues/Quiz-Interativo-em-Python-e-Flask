@@ -14,6 +14,11 @@ O principal objetivo deste trabalho é aplicar os conceitos aprendidos em sala d
 
 #### Como Executar
 
+1. Clone este repositório.
+2. Instale as dependências necessárias com `pip install flask`.
+3. Execute a aplicação com `python app.py`.
+4. Acesse `http://127.0.0.1:5000` no seu navegador para iniciar o quiz.
+
 
 #### Tecnologias Utilizadas
 - Python
